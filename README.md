@@ -7,7 +7,7 @@ Actualmente incluye un programa que intenta abrir un archivo inexistente, captur
 
 ## Contenido
 
-* [Nombre de tu archivo principal de Python].py: Contiene el código del ejercicio de manejo de excepciones.
+* Git_except.py: Contiene el código del ejercicio de manejo de excepciones.
 
 ## Uso
 
