@@ -1,17 +1,23 @@
 # Git_except
-Python 3F - Clase 2 - Ejercicios excepciones
 
-Este repositorio contiene ejercicios de Python relacionados con el manejo de excepciones.
+Python 3F - Clases prácticas con ejercicios de manejo de excepciones, operadores ternarios y más.
 
-Actualmente incluye un programa que intenta abrir un archivo inexistente, captura la excepción `FileNotFoundError`, muestra un mensaje de error y luego intenta crear el archivo si no existe.
+## 📁 Estructura del repositorio
 
-## Contenido
+Este repositorio organiza los ejercicios por clase:
 
-* Git_except.py: Contiene el código del ejercicio de manejo de excepciones.
+### 📂 clase_2_excepciones
+Contiene ejercicios relacionados con el manejo de excepciones (`try`, `except`), incluyendo:
 
-## Uso
+- `ejercicio1.py` al `ejercicio5.py`: manejo de errores, captura de excepciones, archivos inexistentes, etc.
 
-Para ejecutar el programa, simplemente navega hasta el directorio y ejecuta:
+> Próximamente se agregarán carpetas para las siguientes clases, como `clase_3_ternarios`, `clase_4_decoradores`, etc.
+
+---
+
+## 🚀 Uso
+
+Para ejecutar un archivo:
 
 ```bash
-python [Nombre de tu archivo principal de Python].py
+python clase_2_excepciones/ejercicio1.py
