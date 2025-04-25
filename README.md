@@ -21,3 +21,9 @@ Para ejecutar un archivo:
 
 ```bash
 python clase_2_excepciones/ejercicio1.py
+
+### 📙 clase_3_ternarios
+
+Contiene ejercicios relacionados con el uso del operador ternario (`condición_if_else`), incluyendo:
+
+- `ejercicio_1.py` al `ejercicio_5.py`: expresiones condicionales en una sola línea, ejemplos prácticos de validaciones y decisiones.
